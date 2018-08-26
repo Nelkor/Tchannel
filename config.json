@@ -1,6 +1,6 @@
 {
-  "token": "649948235:AAH-I_d_uxuyCut8p7T7KZB332OuPQfVftg",
-  "users": [253201025],
+  "token": "651132235:AAH-I_d_uxuyCut8p765hg72OuPQfVftg",
+  "users": [265199017],
   "routine": {
     "6": "morning",
     "9": "standard",
@@ -10,5 +10,5 @@
     "21": "standard",
     "23": "evening"
   },
-  "interval": 7.5
+  "interval": 7
 }
